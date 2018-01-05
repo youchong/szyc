@@ -1,0 +1,61 @@
+[I 16:23:51.422 NotebookApp] JupyterLab alpha preview extension loaded from /home/youchong/anaconda3/lib/python3.6/site-packages/jupyterlab
+JupyterLab v0.27.0
+Known labextensions:
+[I 16:23:51.424 NotebookApp] Running the core application with no additional extensions or settings
+[I 16:23:51.431 NotebookApp] Serving notebooks from local directory: /home/youchong/szyc
+[I 16:23:51.431 NotebookApp] 0 active kernels 
+[I 16:23:51.431 NotebookApp] The Jupyter Notebook is running at: http://0.0.0.0:8989/
+[I 16:23:51.431 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 16:24:39.405 NotebookApp] 302 GET / (10.0.0.3) 0.68ms
+[I 16:24:39.414 NotebookApp] 302 GET /tree? (10.0.0.3) 0.79ms
+[I 16:24:44.048 NotebookApp] 302 POST /login?next=%2Ftree%3F (10.0.0.3) 1.14ms
+[I 16:24:57.210 NotebookApp] Creating new notebook in 
+[I 16:25:00.297 NotebookApp] Kernel started: 262f494c-88c7-46d8-a2c4-4bbd30ad38cb
+[I 16:25:01.492 NotebookApp] Adapting to protocol v5.1 for kernel 262f494c-88c7-46d8-a2c4-4bbd30ad38cb
+[I 16:27:00.221 NotebookApp] Saving file at /Aug.ipynb
+[I 16:29:00.213 NotebookApp] Saving file at /Aug.ipynb
+[I 16:31:00.220 NotebookApp] Saving file at /Aug.ipynb
+[I 16:33:00.238 NotebookApp] Saving file at /Aug.ipynb
+[I 16:35:00.233 NotebookApp] Saving file at /Aug.ipynb
+[I 16:37:00.848 NotebookApp] Saving file at /Aug.ipynb
+[I 16:37:23.039 NotebookApp] Creating new directory in /data
+[I 16:38:29.056 NotebookApp] Creating new notebook in 
+[I 16:38:29.672 NotebookApp] Kernel started: 3bd4f148-b818-4ea2-a045-838ea94b8748
+[I 16:38:36.649 NotebookApp] Adapting to protocol v5.1 for kernel 3bd4f148-b818-4ea2-a045-838ea94b8748
+[I 16:39:00.847 NotebookApp] Saving file at /Aug.ipynb
+[I 16:40:29.697 NotebookApp] Saving file at /view.ipynb
+[I 16:46:34.550 NotebookApp] Creating new notebook in 
+[I 16:46:35.193 NotebookApp] Kernel started: 5460f732-b897-4669-a2a4-d9ba641052fc
+[I 16:46:42.285 NotebookApp] Adapting to protocol v5.1 for kernel 5460f732-b897-4669-a2a4-d9ba641052fc
+[I 16:48:42.038 NotebookApp] Saving file at /train_data.ipynb
+[W 16:49:09.404 NotebookApp] delete /data/all_data_csv
+[I 16:50:35.235 NotebookApp] Saving file at /train_data.ipynb
+[I 16:52:35.216 NotebookApp] Saving file at /merge_july_aug.ipynb
+[I 16:53:03.376 NotebookApp] Kernel restarted: 5460f732-b897-4669-a2a4-d9ba641052fc
+[I 16:53:11.460 NotebookApp] Adapting to protocol v5.1 for kernel 5460f732-b897-4669-a2a4-d9ba641052fc
+[W 16:53:50.149 NotebookApp] delete /data/all_data.csv
+[I 16:54:11.626 NotebookApp] Creating new notebook in 
+[I 16:54:12.416 NotebookApp] Kernel started: e27050a1-1e2b-44d0-a7db-34f5ded97ef6
+[I 16:54:13.580 NotebookApp] Adapting to protocol v5.1 for kernel e27050a1-1e2b-44d0-a7db-34f5ded97ef6
+[I 16:54:35.870 NotebookApp] Saving file at /merge_july_aug.ipynb
+[I 16:56:12.515 NotebookApp] Saving file at /train_data.ipynb
+[I 16:58:12.444 NotebookApp] Saving file at /train_data.ipynb
+[I 16:58:23.835 NotebookApp] Kernel restarted: e27050a1-1e2b-44d0-a7db-34f5ded97ef6
+[I 16:58:25.663 NotebookApp] Adapting to protocol v5.1 for kernel e27050a1-1e2b-44d0-a7db-34f5ded97ef6
+[I 17:00:12.877 NotebookApp] Saving file at /train_data.ipynb
+[I 17:04:12.422 NotebookApp] Saving file at /train_data.ipynb
+[I 17:06:12.415 NotebookApp] Saving file at /train_data.ipynb
+[I 17:08:12.426 NotebookApp] Saving file at /train_data.ipynb
+[I 17:10:12.442 NotebookApp] Saving file at /train_data.ipynb
+[I 17:14:12.449 NotebookApp] Saving file at /train_data.ipynb
+[I 17:16:12.515 NotebookApp] Saving file at /train_data.ipynb
+[I 17:18:12.462 NotebookApp] Saving file at /train_data.ipynb
+[I 17:20:12.470 NotebookApp] Saving file at /train_data.ipynb
+[I 17:22:12.447 NotebookApp] Saving file at /train_data.ipynb
+[I 17:24:12.549 NotebookApp] Saving file at /train_data.ipynb
+[I 17:30:12.474 NotebookApp] Saving file at /train_data.ipynb
+[I 17:32:12.465 NotebookApp] Saving file at /train_data.ipynb
+[I 17:55:53.543 NotebookApp] Kernel shutdown: 262f494c-88c7-46d8-a2c4-4bbd30ad38cb
+[I 17:55:54.083 NotebookApp] Kernel shutdown: 5460f732-b897-4669-a2a4-d9ba641052fc
+[I 17:55:54.686 NotebookApp] Kernel shutdown: e27050a1-1e2b-44d0-a7db-34f5ded97ef6
+[I 17:55:55.090 NotebookApp] Kernel shutdown: 3bd4f148-b818-4ea2-a045-838ea94b8748
